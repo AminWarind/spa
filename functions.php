@@ -133,16 +133,6 @@ function insert_google_gtag() {
 }
 
 
-
-
-
-
-
-
-
-
-
-<?php
 /**
  * Tazy Tech LLC - Custom Popup Modal
  * Hooked to wp_footer to ensure it loads at the bottom of the page.
